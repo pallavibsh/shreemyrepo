@@ -1,4 +1,4 @@
 main
 {
-//Hello
+//Hello world
 }
